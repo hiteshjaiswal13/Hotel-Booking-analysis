@@ -11,6 +11,7 @@
 
 <h4>Improve Customer Satisfaction : </h4> Do proper analysis about customer satisfaction at oyo hotels by analyzing data customer records
 
+<H4> Technology Used :-</H4> Microsoft Excel 
 <h2>Contributers </h2>
 <h5>Hitesh Kumar</h5>
 
